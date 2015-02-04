@@ -1,3 +1,6 @@
-w101|BadApps Watch 1|Built by BadApps`More stuff`Even more stuff|badapps.com
-w102|Aviary Watch 1|Built by Aviary`More stuff`Even more stuff|aviary.com
-w103|Random Watch 1|Built by Alex Curran|androidslide.com
+f1_1|3d Watch
+f1_2|3d Gyroscope
+f1_3|Calendar Watch
+f1_4|Compass
+f1_5|Fitness
+f1_6|World Clock
