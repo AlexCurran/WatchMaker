@@ -1,6 +1,6 @@
-f1_1|3d Watch
-f1_2|3d Gyroscope
-f1_3|Calendar Watch
-f1_4|Compass
-f1_5|Fitness
-f1_6|World Clock
+f1_1|BadApps Glass
+f1_2|Industry
+f1_3|TileStyle
+f1_4|Atom 3D Gyro Moon Orbitor
+f1_5|My Old Eyes v3
+f0_6|World Clock
