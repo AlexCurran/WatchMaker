@@ -1,7 +1,7 @@
 3.3.1
 f5_1|Bumblebee
 f5_2|Sportwatch V1.5 OH
-f5_3|LG Nite-Vision Multi
+f5_3|LG Nite-Vision Multi Function
 f5_4|Red Space
 f5_5|G'dUp  Chronograph
 f4_1|JT Weather Analog
