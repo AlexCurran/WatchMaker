@@ -1,9 +1,9 @@
 3.3.1
+f8_1|Core Sport 4 Function Modded
+f8_2|Machine Advance Variant
+f8_3|river watch o&b
+f8_4|Astra
 f7_1|Carbon
 f7_2|Military Digital V3.2_pro
 f7_3|Reaper
 f7_4|Expresso
-f6_1|Military R Watch
-f6_2|Velocity Color
-f6_4|WTanimIgu_p
-f5_1|Bumblebee
