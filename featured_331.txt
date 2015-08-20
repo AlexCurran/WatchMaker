@@ -1,6 +1,6 @@
 3.3.1
-f8_1|Core Sport 4 Function Modded
-f8_2|Machine Advance Variant
+f9_3|Machine Advance Variant
+f9_5|Velocity Color Beta
 f8_3|river watch o&b
 f8_4|Astra
 f7_1|Carbon
